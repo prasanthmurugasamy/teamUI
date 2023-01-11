@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "teamUI",
+    "slug": "teamUI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.prasanth.teamUI"
+    }
+  },
+  "name": "teamUI"
+}
